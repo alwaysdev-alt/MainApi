@@ -1,0 +1,28 @@
+{
+  "rewrites": [
+    {
+      "source": "/apisrc",
+      "destination": "https://github.com/NanoSoCute/TestApi"
+    },
+    {
+      "source": "/json",
+      "destination": "use.json"
+    },
+    {
+      "source": "/gpt3",
+      "destination": "https://chatgpt.com"
+    },
+    {
+      "source": "/gg",
+      "destination": "https://gemini.google.com"
+    },
+    {
+      "source": "/idk",
+      "destination": "https://google.com"
+    },
+    {
+      "source": "/surv.modpack.v1.dl",
+      "destination": "https://download1474.mediafire.com/7578fai2cdmgj9Pd0WZky8gLq_9GsukXotrwY3ihxrpOVMidCendNdNg7NB9kxYjWNEQTV9U2LgdRtdHSI-w4I6HhLbDjclmIW6Fc0XADJeYO50zNfdprN55poUylzIFr6F9ioZd5SMH-nTY4rBDiSJp_euOWLpvKX52r-2rCExSbHM5/ry54ub1dbz3oyzk/SurvivalModpackV1.zip"
+    }
+  ]
+}
